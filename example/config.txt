@@ -1,0 +1,2 @@
+Prefix plugins/OptimalThreshold/example/
+Plugin OptimalThreshold inputfile parameters.txt outputfile thresholds_masif_test.csv

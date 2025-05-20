@@ -1,0 +1,3 @@
+csvfile	MaSIF-Search_scores.csv
+label	MaSIF
+other_labels	labels1.txt
